@@ -36,11 +36,17 @@ Upload the folder to your Google Drive.
 The project follows a structured big data pipeline:
 
 1.Data Loading (Parquet format)
+
 2.Data Cleaning & Preprocessing
+
 3.Feature Engineering
+
 4.Regression Model Training (PySpark MLlib)
+
 5.Model Evaluation
+
 6.Performance Comparison
+
 7.Visualization (Tableau)
 
 
@@ -48,16 +54,22 @@ The project follows a structured big data pipeline:
 
 The regression models were evaluated using:
 1.RMSE (Root Mean Squared Error)
+
 2.MAE (Mean Absolute Error)
+
 3.R² (R-Squared Score)
 
 These metrics measure prediction accuracy and overall model performance.
 
 # Learning Outcomes
 1.Understanding distributed machine learning concepts
+
 2.Processing and managing large-scale datasets
+
 3.Implementing regression models using PySpark
+
 4.Evaluating model performance using multiple metrics
+
 5.Building reproducible big data workflows
 
 # Author
